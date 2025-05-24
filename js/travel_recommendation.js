@@ -3,6 +3,7 @@ import { initSearch } from './search.js';
 
 // Initialize components
 document.addEventListener('DOMContentLoaded', () => {
+  console.log('init2');
   // Only initialize search on the homepage
   initSearch();
   console.log('init');
