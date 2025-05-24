@@ -10,7 +10,7 @@
   /* height: 100vh; */
   /* background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.pexels.com/photos/1434580/pexels-photo-1434580.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260'); */
   /* background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/home.jpg'); */
-  background-image: linear-gradient(to right, rgba(0, 128, 128, 0.6), rgba(0, 128, 128, 0)), url('/images/home.jpg');
+  background-image: linear-gradient(to right, rgba(0, 128, 128, 0.6), rgba(0, 128, 128, 0)), url('https://images.pexels.com/photos/2178175/pexels-photo-2178175.jpeg');
 
   background-size: cover;
   background-position: center;
